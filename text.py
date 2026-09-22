@@ -1,4 +1,4 @@
-def mul(a,b):
+def multiply(a,b):
     product=a*b
     print("mul",product)
 
