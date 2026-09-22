@@ -1,4 +1,5 @@
 def multiply(a,b):
+def multiplication(a,b):
     product=a*b
     print("mul",product)
 
